@@ -7,6 +7,7 @@ I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of
 🐍 Python
 💻 JS / HTML / CSS / 
 
+## About Me
 
 - 🔭 I’m currently working on Password generator Project - Language - Java 
 - 🌱 I’m currently learning OOP, JavaFx and React 
