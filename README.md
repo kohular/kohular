@@ -15,7 +15,6 @@ I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kohular&show_icons=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kohular)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kohul Anandarajah/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kohular)
 
 
