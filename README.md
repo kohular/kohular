@@ -4,7 +4,9 @@ I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of
 
 ## Skills
 ☕ Java
+
 🐍 Python
+
 💻 JS / HTML / CSS / 
 
 ## About Me
