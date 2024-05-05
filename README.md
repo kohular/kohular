@@ -9,12 +9,13 @@ I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of
 
 💻 JS / HTML / CSS / 
 
-## About Me
+## Currently Pursuing
 
 - 🔭 I’m currently working on Password generator Project - Language - Java 
 - 🌱 I’m currently learning OOP, JavaFx and React 
-- 📫 How to reach me: kohul11anandaraja@gmail.com 
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: kohul11anandaraja@gmail.com
+
+## Details
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kohular&show_icons=true)
 
