@@ -9,9 +9,11 @@ I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of
 
 💻 JS / HTML / CSS / 
 
+📷 Motion Animation / Video Editing
+
 ## Currently Pursuing
 
-- 🔭 I’m currently working on Password generator Project - Language - Java 
+- 🔭 I’m currently working on Database Storage Project - Language - Java 
 - 🌱 I’m currently learning OOP, JavaFx and React 
 - 📫 How to reach me: kohul11anandaraja@gmail.com
 
