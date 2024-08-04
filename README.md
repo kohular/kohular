@@ -14,7 +14,7 @@ I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of
 ## Currently Pursuing
 
 - 🔭 I’m currently working on Database Storage Project - Language - Java 
-- 🌱 I’m currently learning OOP, React, Algorithms, and Framer 
+- 🌱 I’m currently learning OOP, Algorithms, and Machine Learning(Python) 
 - 📫 How to reach me: kohul11anandaraja@gmail.com
 
 ## Details
