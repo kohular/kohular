@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kohul Anandarajah
 #### Undergraduate
-I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of Computer Science. I am interested in learning Artificial Intelligence by learning the fundamentals of algorithims and machine learning. I also am interested in learning new languages and frameworks.
+A Student and Enterpreneur from Sri Lanka, who is an undergraduate pursuing the degree in the field of Computer Science. I am interested in learning Artificial Intelligence by learning the fundamentals of algorithims and machine learning. I am also interested in learning about running a business.
 
 ## Skills
 ☕ Java
@@ -11,10 +11,11 @@ I'm Kohul from Sri Lanka, and I am an undergraduate who is pursuing the field of
 
 📷 Motion Animation / Video Editing
 
-## Currently Pursuing
+📷 Social Media Marketing
 
-- 🔭 I’m currently working on Database Storage Project - Language - Java 
-- 🌱 I’m currently learning OOP, Algorithms, and Machine Learning(Python) 
+## Currently Pursuing
+ 
+- 🌱 I’m currently learning OOP, Algorithms, Machine Learning(Python), and Social Media Marketing
 - 📫 How to reach me: kohul11anandaraja@gmail.com
 
 ## Details
