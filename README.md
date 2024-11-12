@@ -9,6 +9,8 @@ A Student and Enterpreneur from Sri Lanka, who is an undergraduate pursuing the 
 
 💻 JS / HTML / CSS / 
 
+🪟 React
+
 📷 Motion Animation / Video Editing
 
 📷 Social Media Marketing
