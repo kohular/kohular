@@ -15,9 +15,12 @@ A Student and Enterpreneur from Sri Lanka, who is an undergraduate pursuing the 
 
 📷 Social Media Marketing
 
+🛬 Nodejs
+
 ## Currently Pursuing
  
-- 🌱 I’m currently learning OOP, Algorithms, Machine Learning(Python), and Social Media Marketing
+- 🌱 I’m currently learning Algorithms, and finishing up a project called Athleticore.
+- 🧑‍💼 Currently starting up a business.
 - 📫 How to reach me: kohul11anandaraja@gmail.com
 
 ## Details
