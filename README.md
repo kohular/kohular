@@ -20,7 +20,7 @@ A Student and Enterpreneur from Sri Lanka, who is an undergraduate pursuing the 
 ## Currently Pursuing
  
 - 🌱 I’m currently learning Algorithms, and finishing up a project called Athleticore.
-- 🧑‍💼 Currently starting up a business.
+- 🧑‍💼 Started a business called **LeadX**.
 - 📫 How to reach me: kohul11anandaraja@gmail.com
 
 ## Details
